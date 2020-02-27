@@ -1,0 +1,61 @@
+body{
+    background-image: url('https://mk0owensboroliv2bn3k.kinstacdn.com/wp-content/uploads/2015/08/PlanetFitness-1140x570.jpg');
+    background-size: cover;
+}
+Form{
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+    position: absolute;
+    height: auto;
+    left: 8%;
+    top: 15%;
+    width: 40rem;
+    background: rgba(0, 0, 0,0.3);
+    color: yellow;
+    font-size: 1.5rem;
+}
+.checkbox{
+    width: 2%;
+
+}
+.checkbox{
+    transform: scale(2);
+}
+
+label{
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-evenly;
+    
+  
+}
+
+
+h1{
+    -webkit-text-stroke: 3px black;
+    color: yellow;
+}
+.big-button{
+    width: 30%;
+    margin: 0 20%;
+   
+}
+.small-button{
+   width: 30%;
+   margin: 0 auto;
+   position: relative;
+   padding: 0.46rem;
+   left: 25%;
+   top: -2.4rem;
+   background: gray;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
